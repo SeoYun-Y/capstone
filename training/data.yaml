@@ -1,1 +1,6 @@
+train: /content/drive/MyDrive/data/data_balanced/images/train
+val: /content/drive/MyDrive/data/data_balanced/images/val
+test: /content/drive/MyDrive/data/data_balanced/images/test
 
+nc: 2
+names: ['투명_pet', '불투명_pet']
